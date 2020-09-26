@@ -1,0 +1,2 @@
+# Flask-SQLAlchemy-example
+在Flask Web应用程序中使用原始SQL对数据库执行CRUD操作可能很乏味。相反，Python工具包 SQLAlchemy 是一个功能强大的 OR映射器 ，为应用程序开发人员提供了SQL的全部功能和灵活性。Flask- SQLAlchemy是Flask扩展，它将对SQLAlchemy的支持添加到Flask应用程序中。
